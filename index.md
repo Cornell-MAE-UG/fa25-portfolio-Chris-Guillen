@@ -6,7 +6,7 @@ title: Christopher Guillen
 ## About Me
 
 
-![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
+![Profile Picture]({{ "assets/images/profile-pic.jpeg" | relative_url }}){: class="profile-image"}
 
  
 My name is {{ site.name }}, and I am a mechanical engineering student eager to learn about the world. I want to learn about autonomous vehicles.
