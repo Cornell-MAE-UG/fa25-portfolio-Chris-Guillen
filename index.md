@@ -9,7 +9,7 @@ title: Christopher Guillen
 ![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
 
  
-My name is {{ site.name }}, and I am a mechanical engineering student eager to learn about the world. I want to learn about autonomous vehicles and need to get into a project team.
+My name is {{ site.name }}, and I am a mechanical engineering student eager to learn about the world. I want to learn about autonomous vehicles.
 
 
 Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a>.
