@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
+[Download my CV]({{ "/assets/yuh.pdf" | relative_url }}) in PDF format.
 
 
 **Email:** [crg244@cornell.edu](mailto:crg244@cornell.edu) | | | **Phone:** +757 943 2873
@@ -29,9 +29,9 @@ Aspiring engineering student with a strong foundation in algorithmic structures.
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
+- **Software:** Autodesk Fusion 360
 - **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
+- **Tools:** 3D Printing
 
 ---
 
@@ -41,7 +41,7 @@ Aspiring engineering student with a strong foundation in algorithmic structures.
   - Design
   - ArduPilot
 
-- **Cornell R&D**:  
+- **Cornell Phyisical Intelligence**:  
   *Working on drones*  
   - Design 
   - Fusion
