@@ -14,7 +14,6 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : Christopher Guillen
 description              : Christopher Guillen - Projects and CV 
 baseurl                  : "/fa25-portfolio-Chris-Guillen" 
-url: "https://cornell.mae-ug.github.io"
 
 # Theme and Style
 theme: jekyll-theme-minimal
