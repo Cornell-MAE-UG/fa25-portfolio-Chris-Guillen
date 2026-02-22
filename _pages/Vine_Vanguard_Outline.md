@@ -1,3 +1,8 @@
+---
+layout: default
+title: Vine Vanguard – Client Pitch
+permalink: /vine-vanguard/
+---
 # The Crusher - Vine Vanguard
 Let's crush these SLF!
 
