@@ -1,6 +1,6 @@
 ---
 title: "Rules of the Road Study App"
-excerpt: "Offline web app with 1,010 official USCG test bank questions, vessel light generator, timed exam mode, and rule reference, built to help with rules of road studying."
+excerpt: "Offline web app with 1,010 official USCG test bank questions for Coast Guard licensing prep."
 header:
   image: /assets/images/ror-study-app.jpg
   teaser: /assets/images/ror-study-app.jpg
@@ -17,6 +17,6 @@ An interactive offline study tool built for US Coast Guard Rules of the Road lic
 
 ## Try It
 
-[Launch the App]({{ site.baseurl }}/assets/RoR.html){: .btn .btn--primary}
+[Launch the App]({{ site.baseurl }}/RoR/RoR.html){: .btn .btn--primary}
 
 **Technologies Used**: HTML, CSS, JavaScript, Python (for parsing the USCG test bank Excel file), and Claude AI
