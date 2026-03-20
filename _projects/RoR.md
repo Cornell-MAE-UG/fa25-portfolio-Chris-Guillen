@@ -1,4 +1,5 @@
 ---
+layout: project
 title: "Rules of the Road Study App"
 excerpt: "Offline web app with 1,010 official USCG test bank questions for Coast Guard licensing prep."
 header:
