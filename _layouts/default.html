@@ -11,57 +11,44 @@
 
 <body>
 
- <header>
-  <nav class="navbar navbar-expand-lg navbar-dark text-white">
-    <div class="container-fluid">
-      <a class="navbar-brand" href="{{ "/" | relative_url }}">{{ site.title }}</a>
-      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
-        <span class="navbar-toggler-icon"></span>
-      </button>  
-      <div class="collapse navbar-collapse" id="navbarNav">
-        <ul class="navbar-nav ms-auto">
-
-          <li class="nav-item">
-            <a class="nav-link {% if page.url == '/' %}active{% endif %}" 
-               href="{{ "/" | relative_url }}">
-               Home
-            </a>
-          </li>
-
-          <li class="nav-item">
-            <a class="nav-link {% if page.url == '/projects/' %}active{% endif %}" 
-               href="{{ "/projects/" | relative_url }}">
-               Projects
-            </a>
-          </li>
-
-          <!-- NEW CLIENT PITCH PAGE -->
-          <li class="nav-item">
-            <a class="nav-link {% if page.url == '/vine-vanguard/' %}active{% endif %}" 
-               href="{{ "/vine-vanguard/" | relative_url }}">
-               Client Pitch
-            </a>
-          </li>
-
-          <li class="nav-item">
-            <a class="nav-link {% if page.url == '/cv/' %}active{% endif %}" 
-               href="{{ "/cv/" | relative_url }}">
-               CV
-            </a>
-          </li>
-
-        </ul>
+  <header>
+    <nav class="navbar navbar-expand-lg navbar-dark text-white">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="{{ "/" | relative_url }}">{{ site.title }}</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"> 
+          <span class="navbar-toggler-icon"></span>
+        </button>  
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav ms-auto">
+            <li class="nav-item">
+              <a class="nav-link {% if page.url == '/' %}active{% endif %}" href="{{ "/" | relative_url }}">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link {% if page.url == '/projects/' %}active{% endif %}" href="{{ "/projects/" | relative_url }}">Projects</a>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">
+                Vine Vanguard
+              </a>
+              <ul class="dropdown-menu dropdown-menu-end">
+                <li><a class="dropdown-item" href="{{ "/projects/vine-vanguard/" | relative_url }}">Client Pitch</a></li>
+                <li><a class="dropdown-item" href="{{ "/projects/vine-vanguard-prototype/" | relative_url }}">Functional Prototype</a></li>
+              </ul>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link {% if page.url == '/cv/' %}active{% endif %}" href="{{ "/cv/" | relative_url }}">CV</a>
+            </li>
+          </ul>
+        </div>
       </div>
-    </div>
-  </nav>
-</header>
-  
+    </nav>
+  </header>
   
   <main class="container">
     {{ content }}
   </main>
 
-  <footer class="footer navbar-dark text-white text-center";>
+  <footer class="footer navbar-dark text-white text-center">
     <div class="container">
       &copy; 2024 {{ site.name }}. All rights not reserved.
     </div>
