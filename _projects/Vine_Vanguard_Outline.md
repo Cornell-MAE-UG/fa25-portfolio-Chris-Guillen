@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: default
 title: Vine Vanguard – Client Pitch
 permalink: /vine-vanguard/
 ---
