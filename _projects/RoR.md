@@ -2,9 +2,7 @@
 layout: project
 title: "Rules of the Road Study App"
 excerpt: "Offline web app with 1,010 official USCG test bank questions for Coast Guard licensing prep."
-header:
-  image: /assets/images/ror-study-app.jpg
-  teaser: /assets/images/ror-study-app.jpg
+image: /assets/images/ror-study-app.jpg
 ---
 
 An interactive offline study tool built for US Coast Guard Rules of the Road licensing exams (BDOC/OUPV). All 1,010 questions drawn directly from the official USCG test bank (Book 1, June 2001 Edition).

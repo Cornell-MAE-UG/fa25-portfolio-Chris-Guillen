@@ -3,7 +3,8 @@ layout: project
 title: Vine Vanguard — Functional Prototype
 description: ODP 5 First Prototype Testing & Results
 technologies: [CAD, Fusion, 3D Printing]
-image: /assets/images/vine-vanguard-thumb.jpg
+image: /assets/images/SLFCrusher.png
+permalink: /vine-vanguard-prototype/
 ---
 
 

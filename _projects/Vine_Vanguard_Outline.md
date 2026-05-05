@@ -2,6 +2,7 @@
 layout: default
 title: Vine Vanguard – Client Pitch
 permalink: /vine-vanguard/
+image: /assets/images/SLFCrusher.png
 ---
 # The Crusher - Vine Vanguard
 Let's crush these SLF!
