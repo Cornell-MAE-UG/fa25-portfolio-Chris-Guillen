@@ -2,7 +2,8 @@
   "permissions": {
     "allow": [
       "PowerShell(Move-Item \"c:\\\\Users\\\\chris\\\\Downloads\\\\fa25-portfolio-Chris-Guillen\\\\_projects\\\\Vine_Vanguard_Outline.md\" \"c:\\\\Users\\\\chris\\\\Downloads\\\\fa25-portfolio-Chris-Guillen\\\\_pages\\\\Vine_Vanguard_Outline.md\")",
-      "PowerShell(Rename-Item \"c:\\\\Users\\\\chris\\\\Downloads\\\\fa25-portfolio-Chris-Guillen\\\\assets\\\\ODP 6_ Client Report-combined.pdf\" \"ODP6-Client-Report-combined.pdf\")"
+      "PowerShell(Rename-Item \"c:\\\\Users\\\\chris\\\\Downloads\\\\fa25-portfolio-Chris-Guillen\\\\assets\\\\ODP 6_ Client Report-combined.pdf\" \"ODP6-Client-Report-combined.pdf\")",
+      "PowerShell(Rename-Item \"c:\\\\Users\\\\chris\\\\Downloads\\\\fa25-portfolio-Chris-Guillen\\\\assets\\\\ODP 6_ Client Report-final.pdf\" \"ODP6-Client-Report-final.pdf\")"
     ]
   }
 }
