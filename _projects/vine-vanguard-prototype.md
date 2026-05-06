@@ -47,7 +47,7 @@ The first prototype was built to test the core crushing mechanism. The assembly 
 
 ## Client Report
 
-[Download Full Report (PDF)](/assets/ODP6-Client-Report.pdf){:target="_blank"}
+[Download Full Report (PDF)]({{ "/assets/ODP%206_%20Client%20Report-combined.pdf" | relative_url }}){:target="_blank"}
 
 ### Project Overview
 

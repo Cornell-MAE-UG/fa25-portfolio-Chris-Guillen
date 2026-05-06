@@ -26,14 +26,8 @@
             <li class="nav-item">
               <a class="nav-link {% if page.url == '/projects/' %}active{% endif %}" href="{{ "/projects/" | relative_url }}">Projects</a>
             </li>
-            <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">
-                Vine Vanguard
-              </a>
-              <ul class="dropdown-menu dropdown-menu-end">
-                <li><a class="dropdown-item" href="{{ "/vine-vanguard/" | relative_url }}">Client Pitch</a></li>
-                <li><a class="dropdown-item" href="{{ "/vine-vanguard-prototype/" | relative_url }}">Functional Prototype</a></li>
-              </ul>
+            <li class="nav-item">
+              <a class="nav-link" href="{{ "/vine-vanguard-prototype/" | relative_url }}">Vine Vanguard</a>
             </li>
             <li class="nav-item">
               <a class="nav-link {% if page.url == '/cv/' %}active{% endif %}" href="{{ "/cv/" | relative_url }}">CV</a>
