@@ -32,11 +32,11 @@ The first prototype was built to test the core crushing mechanism. The assembly 
  
 **What we tested and what we learned:**
  
-**Press-fit structural integrity**- The shaft-spiral and funnel-housing connections seated securely. However, the housing top and bottom tolerances were inaccurate and required duct tape to hold together. When inverted during the shake test, the shaft and spiral slid freely out of the housing bottom. Next iteration will revise CAD tolerances and add a retention feature.
+**Press-fit structural integrity** - The shaft-spiral and funnel-housing connections seated securely. However, the housing top and bottom tolerances were inaccurate and required duct tape to hold together. When inverted during the shake test, the shaft and spiral slid freely out of the housing bottom. Next iteration will revise CAD tolerances and add a retention feature.
  
-**Spiral rotation under load**: Rotation was smooth with no load. Under simulated egg masses (hydrated Orbeez), eggs lodged beneath the spiral rather than passing through the crushing zone, causing intermittent jamming. The temporary mesh used for testing had ~8mm openings versus 3mm Orbeez, so eggs fell through instead of being crushed. Next iteration will add interior guide arms to keep the spiral flush against the mesh bottom, and replace the temporary mesh with fine mesh sized below egg diameter.
+**Spiral rotation under load** - Rotation was smooth with no load. Under simulated egg masses (hydrated Orbeez), eggs lodged beneath the spiral rather than passing through the crushing zone, causing intermittent jamming. The temporary mesh used for testing had ~8mm openings versus 3mm Orbeez, so eggs fell through instead of being crushed. Next iteration will add interior guide arms to keep the spiral flush against the mesh bottom, and replace the temporary mesh with fine mesh sized below egg diameter.
  
-**Crushing efficiency**: Quantitative efficiency could not be measured due to the mesh sizing issue. Qualitatively, the spiral's tapered base allowed eggs to accumulate at the housing bottom with no way to clear them, and the mesh showed instability under lateral load. Next iteration will redesign the spiral to not taper inward at the base and will explore more secure mesh configurations.
+**Crushing efficiency** - Quantitative efficiency could not be measured due to the mesh sizing issue. Qualitatively, the spiral's tapered base allowed eggs to accumulate at the housing bottom with no way to clear them, and the mesh showed instability under lateral load. Next iteration will redesign the spiral to not taper inward at the base and will explore more secure mesh configurations.
  
 **Success criteria for the final prototype:**
 - ≥ 80% of eggs crushed per mass
