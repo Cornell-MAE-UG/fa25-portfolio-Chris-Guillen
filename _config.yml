@@ -8,11 +8,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : Christopher Guillen
+title                    : Chris Guillen
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : Christopher Guillen
-description              : Christopher Guillen - Projects and CV 
+name                     : Chris Guillen
+description              : Chris Guillen - Projects and CV 
 baseurl                  : "/fa25-portfolio-Chris-Guillen" # Set this to your repo name 
 include:
   - RoR
