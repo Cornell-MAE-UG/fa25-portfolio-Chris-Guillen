@@ -8,3 +8,25 @@ $color_scheme: '{{ site.color_scheme }}';
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Merriweather:wght@400;700&display=swap');
 @import "custom";
 
+/* 1. Make the root elements fill the viewport */
+html,
+body {
+  height: 100%;
+  margin: 0;
+}
+
+/* 2. Turn the body into a column‑flex container */
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+/* 3. Let the main content expand and push the footer down */
+main.container {
+  flex: 1 0 auto;   /* takes remaining vertical space */
+}
+
+/* 4. Keep the footer at the bottom */
+footer.footer {
+  flex-shrink: 0;
+}
