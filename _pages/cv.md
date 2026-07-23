@@ -45,7 +45,7 @@ Aspiring engineer eager to learn about autonomous vehicles. Hoping to specialize
 
 #### Projects
 - **Waypoint Navigating Boat**:  
-  Developed an autonomous RC boat (Arduino, GPS, compass) that follows pre-programmed waypoints; performed CAD design, 3D-printed hull, and programmed navigation in C++.
+  Developed an autonomous RC boat (Arduino, GPS, compass) that follows pre-programmed waypoints; performed CAD design, used an existing RC hull design, and programmed navigation in C++.
 
 ---
 
