@@ -29,10 +29,11 @@ Aspiring engineer eager to learn about autonomous vehicles. Hoping to specialize
 
 ---
 #### Experience
-- **Engineering Intern, Newport News Shipbuilding**
-  -Designed and tested a tool to improve safety and ergonomics of crane hook pin removal using Inventor Pro's CAD, FEA, and engineering drawing features
-  -Created the procedure for testing the capacity of laminated lumber used for scaffolding following OSHA and ASTM guidelines and standards. Calculated theoretical yield strength and expected load at failure using manufacturer provided material specifications and standard static analysis methods.
-  -Supported everyday operations ensuring the safety of staging, blocking, rigging, and lifting and handling.
+**Engineering Intern, Newport News Shipbuilding**
+- Designed and tested a tool to improve safety and ergonomics of crane hook pin removal using Inventor Pro's CAD, FEA, and engineering drawing features
+- Created the procedure for testing the capacity of laminated lumber used for scaffolding following OSHA and ASTM guidelines and standards. Calculated theoretical yield strength and expected load at failure using manufacturer provided material specifications and standard static analysis methods.
+- Supported everyday operations ensuring the safety of staging, blocking, rigging, and lifting and handling.
+---
 
 #### Skills
 - **Software:** Autodesk Fusion 360, Autdesk Inventor Pro
