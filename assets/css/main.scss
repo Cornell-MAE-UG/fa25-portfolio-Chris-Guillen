@@ -1,7 +1,6 @@
----
-# this ensures Jekyll reads the file to be transformed into CSS later
-# only Main files contain this front matter, not partials.
---- 
+
+/* this ensures Jekyll reads the file to be transformed into CSS later
+# only Main files contain this front matter, not partials. */
 
 $color_scheme: '{{ site.color_scheme }}';
 
@@ -15,7 +14,7 @@ body {
   margin: 0;
 }
 
-/* 2. Turn the body into a column‑flex container */
+/* 2. Turn the body into a column-flex container */
 body {
   display: flex;
   flex-direction: column;
