@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Christopher Guillen - Portfolio
+title: Chris Guillen - Portfolio
 permalink: /projects/
 ---
 

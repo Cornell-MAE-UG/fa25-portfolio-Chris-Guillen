@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Christopher Guillen - Curriculum Vitae
+title: Chris Guillen - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
