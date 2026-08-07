@@ -29,12 +29,12 @@ Aspiring engineer eager to learn about autonomous vehicles. Hoping to specialize
 
 ---
 #### Experience
-- **Engineering Intern, Newport News Shipbuilding**
+**Engineering Intern, Newport News Shipbuilding**
 - Designed and tested a crane-hook-pin removal tool using Autodesk Inventor (CAD/FEA) and produced full engineering drawings.
 - Created the procedure for testing the capacity of laminated lumber used for scaffolding following OSHA and ASTM guidelines and standards. Calculated theoretical yield strength and expected load at failure using manufacturer provided material specifications and standard static analysis methods.
 - Supported everyday operations ensuring the safety of staging, blocking, rigging, and lifting and handling.
 
-- **Physics 1112 Learning Assistant**
+**Physics 1112 Learning Assistant**
 - Supported a discussion section in introductory mechanics and heat, with an emphasis on conceptual understanding and collaborative problem-solving.
 
 ---
