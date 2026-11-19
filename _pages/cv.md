@@ -25,8 +25,8 @@ Mechanical engineering student and NROTC midshipman seeking a Summer 2027 intern
 
 - **Granby High School**  
   *Advanced Studies Diploma*  
-  Graduation: June, 2024
-  GPA: 5.0/4.0 | Graduation: May, 2024
+  Graduation: June, 2024  
+  GPA: 5.0/4.0
 
 ---
 
