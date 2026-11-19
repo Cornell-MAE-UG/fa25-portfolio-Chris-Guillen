@@ -1,5 +1,6 @@
 ---
 layout: project
+order: 2
 title: System Dynamics Project
 description: Modeling and analyzing a dynamic system
 technologies: [TBD]

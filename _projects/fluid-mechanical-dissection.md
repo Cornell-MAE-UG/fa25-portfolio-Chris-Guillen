@@ -1,5 +1,6 @@
 ---
 layout: project
+order: 3
 title: Fluid-Mechanical Dissection
 description: Dissecting a device to explain the fluid mechanics behind it
 technologies: [TBD]

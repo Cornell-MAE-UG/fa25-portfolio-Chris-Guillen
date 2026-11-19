@@ -1,5 +1,6 @@
 ---
 layout: project
+order: 1
 title: Vine Vanguard, MAE 2250 Open Design Project
 description: Mechanical device to crush Spotted Lanternfly egg masses at scale
 technologies: [CAD, Fusion 360, 3D Printing]
