@@ -77,8 +77,10 @@ Mechanical engineering student and NROTC midshipman seeking a Summer 2027 intern
 ---
 
 #### Leadership & Involvement
-**Navy ROTC, Cornell University** | Aug 2024 - Present
+**Naval Reserve Officers Training Corps (NROTC), Cornell University** – Midshipman | Aug 2024 - Present
 - Commissioning as a U.S. Navy officer upon graduation through the Cornell NROTC program.
+- Completed Naval Science Institute (NSI), an intensive summer program in naval science, leadership, and military fundamentals.
+- Completed CORTRAMID, rotating through aviation, submarine, surface warfare, and Marine Corps training.
 - *Assistant Physical Training Instructor* (Aug 2026 - Present): Design and lead weekly fitness workouts for a unit of ~50 midshipmen, scaling sessions across varying fitness levels; coach strength and endurance progression and lead warm-ups and cooldowns for injury prevention.
 - *Squad Leader* (Aug 2025 - May 2026): Led a squad of ~12 midshipmen, tracking attendance and accountability for all unit events; mentored freshmen on academics, training, and unit responsibilities.
 
